@@ -1,0 +1,7 @@
+.abc{
+    color: white;
+}
+.active{
+    color: #FF8911;
+    transition: color 2s ease;
+}
